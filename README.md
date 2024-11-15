@@ -47,4 +47,9 @@ Sample Input:
    Do you want to store open ports in a file? (yes/no): yes
    Enter the filename (e.g., open_ports.txt): scan_results.txt
 
-
+Sample Output:
+   ```bash
+   Scanning ports 20-80 on 192.168.1.1... Please wait.
+   Port 22 is open (SSH) - Banner: SSH-2.0-OpenSSH_8.0
+   Port 80 is open (HTTP) - Banner: Apache/2.4.41 (Ubuntu)
+   Results stored in scan_results.txt
