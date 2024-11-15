@@ -26,3 +26,4 @@ Open ports are highlighted in red, and you can optionally save the results in a 
    ```bash
    git clone https://github.com/yourusername/Port-Scanner.git
    cd Port-Scanner
+   python ports_scanner.py
