@@ -3,6 +3,16 @@ import threading
 import sys
 import ssl
 
+# Banner for the tool
+def show_banner():
+    banner = f"""
+{GREEN}
+====================================================
+|               Open Port Scanner Tool             |
+====================================================
+    """
+    print(banner)
+    
 # ANSI escape sequences for colors
 RED = "\033[91m"
 RESET = "\033[0m"
