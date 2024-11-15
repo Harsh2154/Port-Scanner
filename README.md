@@ -12,7 +12,7 @@ Open ports are highlighted in red, and you can optionally save the results in a 
 - Outputs results in color (red for open ports).
 - Optionally saves the results to a file.
 
-##Usage
+## Usage
 
 When you run the script, the following prompts will appear:
 
