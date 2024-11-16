@@ -34,7 +34,7 @@ When you run the script, the following prompts will appear:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/yourusername/Port-Scanner.git
+   git clone https://github.com/Harsh2154/Port-Scanner.git
    cd Port-Scanner
    python ports_scanner.py
 
